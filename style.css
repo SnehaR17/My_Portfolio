@@ -286,6 +286,8 @@ section {
   }
   
   .about-pic {
+    height: 350px;
+    width: 425px;
     border-radius: 2rem;
     gap: 2rem;
   }
