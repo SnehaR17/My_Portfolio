@@ -33,7 +33,7 @@
     .section__pic-container{
         width: 275px;
         height: 275px;
-        margin: 0 auto 2rem;
+        margin: 2rem auto 2rem;
     }
     .about-containers{
         margin-top: 0;
@@ -54,6 +54,7 @@
     footer nav{
         height: fit-content;
         margin-bottom: 2rem;
+
     }
     .about-containers, .contact-info-upper-container, .btn-container{
         flex-wrap: wrap;
