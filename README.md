@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact 
 
-For any questions or inquiries, please contact [1ds22cb050@gmail.com].
+For any questions or inquiries, please contact [snehadrdn@gmail.com].
